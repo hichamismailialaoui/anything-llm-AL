@@ -328,3 +328,5 @@ This project is [MIT](./LICENSE) licensed.
 [sealos-deploy]: https://sealos.io/products/app-store/anything-llm
 [easypanel-btn]: https://easypanel.io/img/deploy-on-easypanel-40.svg
 [easypanel-deploy]: https://easypanel.io/templates/anythingllm
+
+Notes d'apprentissage
